@@ -1,0 +1,13 @@
+body{
+    background-color: #eee;
+    margin: 0;
+    height: 5000px;
+}
+.scroll-page{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 5px;
+    background-color: rgb(28, 120, 201);
+}
